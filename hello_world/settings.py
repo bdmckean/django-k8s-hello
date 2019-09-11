@@ -25,7 +25,7 @@ SECRET_KEY = 'y+pfov2^ssra_myp3=k^$3ho14=j!57xt8=r!#7l2)ogjwt%%_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
